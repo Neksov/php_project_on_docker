@@ -5,6 +5,7 @@ include('templates/head.tpl');
 include('templates/nav.tpl');
 include('templates/header.tpl');
 ?>
+
 <main class="container">
         <div class="content-wrapper">
             <div class="content content--full">
