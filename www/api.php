@@ -30,26 +30,24 @@
         ],
     ];
 
-global $asideCategoryList;
-$asideCategoryList = [
-    'Travel',
-    'Food',
-    'Lifestyle',
-    'Health & Fintness',
-    'Minimalizam',
-    'Recipes',
-    'Review'
-];
+    global $asideCategoryList;
+    $asideCategoryList = [
+        'Travel',
+        'Food',
+        'Lifestyle',
+        'Health & Fintness',
+        'Minimalizam',
+        'Recipes',
+        'Review'
+    ];
 
-global $asidePhotosList;
-$asidePhotosList = [
-    'photo-1.jpg',
-    'photo-2.jpg',
-    'photo-3.jpg',
-    'photo-4.jpg',
-    'photo-5.jpg',
-    'photo-6.jpg',
-];
-
-
+    global $asidePhotosList;
+    $asidePhotosList = [
+        'photo-1.jpg',
+        'photo-2.jpg',
+        'photo-3.jpg',
+        'photo-4.jpg',
+        'photo-5.jpg',
+        'photo-6.jpg',
+    ];
 ?>

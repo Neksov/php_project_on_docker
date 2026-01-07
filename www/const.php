@@ -13,7 +13,7 @@ $menu = [
 
 global $title;
 
-foreach ($menu as $page => $title) {
-    if(PAGE == $page) $title = $title;
+foreach ($menu as $page => $value) {
+    if(PAGE == $page) $title = $value;
 }
 
